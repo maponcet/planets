@@ -5,9 +5,5 @@ an ill-considered change
 After Mars, we will go to Venus
 to reach the Sun we need to fly in the night
 something meaningful
-<<<<<<< HEAD
 YY push changes
-=======
 Ending!
-
->>>>>>> 8155f19b81ab945766ed88af2976f0523f6bd9f8
